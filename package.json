@@ -1,0 +1,19 @@
+{
+  "name": "js_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fast-csv/format": "^4.3.1",
+    "@fast-csv/parse": "^4.3.1",
+    "csv-parser": "^2.3.3",
+    "csvtojson": "^2.0.10",
+    "fast-csv": "^4.3.1"
+  }
+}
